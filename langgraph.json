@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "clinical_orientation": "./app/graph.py:graph"
+  },
+  "env": ".env",
+  "python_version": "3.11"
+}

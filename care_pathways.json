@@ -1,0 +1,14 @@
+{
+  "respiratoire": "Pneumologie — Consultation spécialisée + bilan spirométrique recommandé",
+  "toux": "Médecine générale → si persistance >3 semaines: Pneumologie",
+  "fièvre": "Médecine générale — Bilan infectieux (NFS, CRP) si fièvre >38.5°C >48h",
+  "cardio": "Cardiologie — ECG + consultation spécialisée urgente",
+  "thoracique": "Urgences / Cardiologie — Bilan urgent (ECG, troponine, RX thorax)",
+  "digestif": "Médecine générale → si douleurs persistantes: Gastro-entérologie",
+  "neurologique": "Neurologie — Consultation spécialisée + imagerie cérébrale si déficit focal",
+  "anxiété": "Médecine générale → Psychiatrie / Psychologie si trouble persistant",
+  "musculo": "Médecine physique et réadaptation / Rhumatologie",
+  "dermatologie": "Dermatologie — Consultation spécialisée recommandée",
+  "red flag": "URGENCES — Orientation immédiate aux urgences hospitalières",
+  "urgent": "URGENCES — Consultation urgente dans les 4 heures"
+}

@@ -1,0 +1,22 @@
+{
+  "fièvre": "R50.9 — Fièvre, sans précision",
+  "toux": "R05 — Toux",
+  "dyspnée": "R06.0 — Dyspnée",
+  "douleur thoracique": "R07.9 — Douleur thoracique, sans précision",
+  "mal de gorge": "J02.9 — Pharyngite aiguë, sans précision",
+  "nausée": "R11.0 — Nausées",
+  "vomissement": "R11.1 — Vomissements",
+  "diarrhée": "K59.1 — Diarrhée fonctionnelle",
+  "fatigue": "R53.83 — Fatigue",
+  "maux de tête": "R51 — Céphalée",
+  "rhinorrhée": "J00 — Rhinopharyngite aiguë (rhume)",
+  "éruption": "R21 — Éruption cutanée et autre lésion cutanée non spécifique",
+  "douleur abdominale": "R10.9 — Douleur abdominale, sans précision",
+  "palpitation": "R00.2 — Palpitations",
+  "vertiges": "R42 — Vertiges et sensations vertigineuses",
+  "insomnie": "G47.00 — Insomnie primaire",
+  "anxiété": "F41.1 — Trouble anxieux généralisé",
+  "asthme": "J45.9 — Asthme, sans précision",
+  "hypertension": "I10 — Hypertension essentielle",
+  "diabète": "E11.9 — Diabète de type 2 sans complications"
+}
