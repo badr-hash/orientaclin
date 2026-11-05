@@ -18,7 +18,7 @@ Python · FastAPI · LangGraph · React · JavaScript
 
 ## État du projet
 
-Le dépôt est un prototype à compléter avant toute démonstration reproductible. En particulier, `server.py` cherche ses données dans un dossier `data/`, tandis que les fichiers JSON sont actuellement à la racine. L’organisation de l’interface et la configuration des services doivent aussi être vérifiées avant lancement. Les instructions d’installation et les résultats restent à valider dans un environnement neuf.
+Le dépôt est incomplet et l’application ne peut pas être lancée telle quelle : `graph.py` importe des modules absents dans `nodes/`, et `api.py` importe `tools/patient_tools.py`, également absent. Il faut retrouver ces fichiers ou réimplémenter et tester le flux. En particulier, `server.py` cherche ses données dans un dossier `data/`, tandis que les fichiers JSON sont actuellement à la racine. L’organisation de l’interface et la configuration des services doivent aussi être vérifiées avant lancement. Les instructions d’installation et les résultats restent à valider dans un environnement neuf.
 
 ## Pistes d’amélioration
 
